@@ -1,7 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/scnext/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
 [submodule "SCGLR"]
 	path = SCGLR
-	url = https://github.com/SCnext/SCGLR
+	url = https://github.com/scnext/scglr
